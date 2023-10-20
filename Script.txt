@@ -9,3 +9,6 @@ Shows status of the repository
  
 Commit:
 
+
+Remote: 
+creates link between pc and repository
