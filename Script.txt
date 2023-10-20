@@ -1,0 +1,11 @@
+Init:
+It creates a new repository or a subdirectory
+ 
+Add . :
+Adds a change in the working directory to the staging area
+ 
+Status:
+Shows status of the repository
+ 
+Commit:
+
