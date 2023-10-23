@@ -15,3 +15,6 @@ creates link between pc and repository
 
 Push:
 Uploads local repository content to a remote reposition
+
+Branch:
+Allows to work on different parts of a project without affecting the main branch
