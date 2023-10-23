@@ -24,3 +24,6 @@ Allows to navigate between branches
 
 Merge:
 Puts a forked history back together again
+
+Log:
+Displays all of the commits in a repository’s history
