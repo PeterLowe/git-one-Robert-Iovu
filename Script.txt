@@ -27,3 +27,10 @@ Puts a forked history back together again
 
 Log:
 Displays all of the commits in a repository’s history
+
+Clone:
+Copies a repo in a new directory or location
+
+Pull:
+Downloads content from remote repository
+
