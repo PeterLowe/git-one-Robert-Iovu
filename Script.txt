@@ -21,3 +21,6 @@ Allows to work on different parts of a project without affecting the main branch
 
 Checkout:
 Allows to navigate between branches
+
+Merge:
+Puts a forked history back together again
