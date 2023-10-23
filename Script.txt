@@ -34,3 +34,7 @@ Copies a repo in a new directory or location
 Pull:
 Downloads content from remote repository
 
+Stash:
+Temporarily saves changes you have made so you can work on something else
+
+
