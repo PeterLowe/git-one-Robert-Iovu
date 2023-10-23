@@ -12,3 +12,6 @@ Commit:
 
 Remote: 
 creates link between pc and repository
+
+Push:
+Uploads local repository content to a remote reposition
